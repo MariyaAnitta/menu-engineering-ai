@@ -1,0 +1,29 @@
+# Secrets
+backend/configs/*.json
+backend/configs/*.json
+# Env
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.venv/
+
+# Node
+node_modules/
+
+# Temp assets
+localimages/
+temp/
+uploads/
+
+# Archives
+*.zip
+
+listmodels.py
